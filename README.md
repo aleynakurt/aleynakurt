@@ -1,24 +1,27 @@
-### Hi there 👋
+<h3 align="left"> Hi there 👋🏻 </h3>
 
 
-- I am currently studying **Artificial Intelligence Engineering** at the [Bahcesehir University](https://bau.edu.tr/). 👩‍💻
+- 👩‍💻 I am currently studying **Artificial Intelligence Engineering** at the [Bahcesehir University](https://bau.edu.tr/).
 
-### Programming languages:
+- ✉️ You can contact me at [aleynakurt9701@gmail.com](mailto:aleynakurt9701@gmail.com).
+
+
+<h2 align="left"> 📌 Programming languages: </h2>
+
 - Python
 - C++
 - R
-
-## Find me at:
   
-  
-[![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aleyna-kurt-b73457208/)
+<h2 align="center"> 👇🏻 Find me at: </h2>
 
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/aleynakurt01)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aleyna-kurt-b73457208/" target="blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="aleyna kurt" />
+  </a>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](aleynakurt9701@gmail.com)
-
-[![Email](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](aleyna01k@hotmail.com)
-
-[![Stack Overflow](https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/23007078/aleyna)
+<p align="center">
+  <a href="https://www.kaggle.com/aleynakurt01" target="blank">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="aleyna kurt" />
+  </a>
 
 
