@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- I am currently studying **Artificial Intelligence Engineering** at the [Bahcesehir University](https://bau.edu.tr/).
+- I am currently studying **Artificial Intelligence Engineering** at the [Bahcesehir University](https://bau.edu.tr/). 👩‍💻
 
 ### Programming languages:
 - Python
