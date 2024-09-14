@@ -11,6 +11,7 @@
 - Python
 - C++
 - R
+- Swift
   
 <h2 align="center"> 👇🏻 Find me at: </h2>
 
