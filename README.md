@@ -1,7 +1,7 @@
 <h3 align="left"> Hi there 👋🏻 </h3>
 
 
-- 👩‍💻 I am currently studying **Artificial Intelligence Engineering** at the [Bahcesehir University](https://bau.edu.tr/).
+- 👩‍💻 **Artificial Intelligence Engineer** 
 
 - ✉️ You can contact me at [aleynakurt9701@gmail.com](mailto:aleynakurt9701@gmail.com).
 
